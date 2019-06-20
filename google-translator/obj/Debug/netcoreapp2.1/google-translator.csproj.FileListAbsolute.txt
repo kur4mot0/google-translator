@@ -1,0 +1,11 @@
+/Users/kuramoto/Projects/google-translator/google-translator/bin/Debug/netcoreapp2.1/google-translator.deps.json
+/Users/kuramoto/Projects/google-translator/google-translator/bin/Debug/netcoreapp2.1/google-translator.runtimeconfig.json
+/Users/kuramoto/Projects/google-translator/google-translator/bin/Debug/netcoreapp2.1/google-translator.runtimeconfig.dev.json
+/Users/kuramoto/Projects/google-translator/google-translator/bin/Debug/netcoreapp2.1/google-translator.dll
+/Users/kuramoto/Projects/google-translator/google-translator/bin/Debug/netcoreapp2.1/google-translator.pdb
+/Users/kuramoto/Projects/google-translator/google-translator/obj/Debug/netcoreapp2.1/google-translator.csprojAssemblyReference.cache
+/Users/kuramoto/Projects/google-translator/google-translator/obj/Debug/netcoreapp2.1/google-translator.csproj.CoreCompileInputs.cache
+/Users/kuramoto/Projects/google-translator/google-translator/obj/Debug/netcoreapp2.1/google-translator.AssemblyInfoInputs.cache
+/Users/kuramoto/Projects/google-translator/google-translator/obj/Debug/netcoreapp2.1/google-translator.AssemblyInfo.cs
+/Users/kuramoto/Projects/google-translator/google-translator/obj/Debug/netcoreapp2.1/google-translator.dll
+/Users/kuramoto/Projects/google-translator/google-translator/obj/Debug/netcoreapp2.1/google-translator.pdb
