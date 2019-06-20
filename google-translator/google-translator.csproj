@@ -5,8 +5,12 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <RootNamespace>google_translator</RootNamespace>
     <DockerComposeProjectPath>../docker-compose.dcproj</DockerComposeProjectPath>
+    <PackOnBuild>true</PackOnBuild>
   </PropertyGroup>
 
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <Optimize>true</Optimize>
+  </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Google.Apis" Version="1.40.2" />
     <PackageReference Include="Google.Apis.Translate.v2" Version="1.40.2.875" />

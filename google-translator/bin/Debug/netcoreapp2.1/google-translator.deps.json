@@ -433,28 +433,28 @@
     "Google.Apis/1.40.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-McG+IUvi20U5nTjtZ7Z/6ucB4ZU4YSRoGWp5YbCZDL1iqMk1GP5o+RYSAEtShq/bwS8DznPvkV8N3fPV4+09Ng==",
+      "sha512": "sha512-cA0x/6oV3K2zpcK3OdqkCUB80QkuVUe9naAdlVcshelPSL9tJzKdBR11LMz4hAOpTc2vtqMm9rkQa4jgOfHRWw==",
       "path": "google.apis/1.40.2",
       "hashPath": "google.apis.1.40.2.nupkg.sha512"
     },
     "Google.Apis.Auth/1.40.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-2iVtgzEXz7aWGXjPP5Onfy8wA3qy7vRMDa+QN5VDqLHmOyxdbgXRsxzWCigG6zoKy7YUH8MJrSZ3fNz3/fhDfQ==",
+      "sha512": "sha512-0YHiCwWF5DkKf7kpe89AjAB9FoJTu1qpPdkw3eUwfFc8ohuGQbxSVgyiieAtWhSvJ01iKH7zepdNR1PyrFPRvQ==",
       "path": "google.apis.auth/1.40.2",
       "hashPath": "google.apis.auth.1.40.2.nupkg.sha512"
     },
     "Google.Apis.Core/1.40.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-kuCdS0/RbPC2phdIZHDobskPweXjhv+vBq3wmnRcn73M6se+B0TFUP4oU+0eDKIl0x+iqJR7SHg66MAt9B6Cuw==",
+      "sha512": "sha512-eOI5/BdxfRgrI+3ZGVrogatR7VvHyKvcPCRNDi1KS/ptm0CTf4+zY8I/ryrMCIrKMoW9aQamMoNjbKFruRIv8A==",
       "path": "google.apis.core/1.40.2",
       "hashPath": "google.apis.core.1.40.2.nupkg.sha512"
     },
     "Google.Apis.Translate.v2/1.40.2.875": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Nw/5Kbq96sBtDj1j0RNpGaqCVcmW8uiphoMA0W2IpEXocOk34HXTfDD9hInaV8lgaEfwuu0s4HCIOP2KmW0iKw==",
+      "sha512": "sha512-WPmt7lQHpio1GDnrvMxRqVJqlpjQCoZE+VoLHlqb1s9GVk14DgMjyAnaNY916R96yWlgLXqJgJap2Doo8PMtdQ==",
       "path": "google.apis.translate.v2/1.40.2.875",
       "hashPath": "google.apis.translate.v2.1.40.2.875.nupkg.sha512"
     },
@@ -468,7 +468,7 @@
     "Newtonsoft.Json/10.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-vcX8ci+srBr5scnSKCUNNoFo5BQ6KjdfeJ5LCJQhvxncNkTy7w3pAWsnRJrsF9WBBdMiaQp0aOa3YRh1CDCc7A==",
+      "sha512": "sha512-iwElSU2IXmwGvytJsezyDML2ZWDkG2JzTYzlU/BNlmzMdlmRvbnwITsGGY74gwVEpDli1UdOLkMT7/3jxWvXzA==",
       "path": "newtonsoft.json/10.0.2",
       "hashPath": "newtonsoft.json.10.0.2.nupkg.sha512"
     },

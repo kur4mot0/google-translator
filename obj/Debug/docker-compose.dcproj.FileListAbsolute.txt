@@ -1,5 +1,0 @@
-/Users/kuramoto/Projects/google-translator/bin/Debug/google-translator.dll
-/Users/kuramoto/Projects/google-translator/bin/Debug/google-translator.pdb
-/Users/kuramoto/Projects/google-translator/obj/Debug/docker-compose.dcprojAssemblyReference.cache
-/Users/kuramoto/Projects/google-translator/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
-/Users/kuramoto/Projects/google-translator/obj/Debug/docker-compose.dcproj.CopyComplete

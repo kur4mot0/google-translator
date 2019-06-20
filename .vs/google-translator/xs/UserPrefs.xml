@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C908D18A-9B9B-4C42-BEFE-9DFC58A0571B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="google-translator/Translate.cs">
+    <Files>
+      <File FileName="google-translator/Translate.cs" Line="62" Column="21" />
+      <File FileName="Dockerfile" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="google-translator" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="google-translator" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.google-translator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,7 +1,0 @@
-services:
-  google-translator:
-    build:
-      context: /Users/kuramoto/Projects/google-translator
-      dockerfile: google-translator/Dockerfile
-    image: googletranslator
-version: '3.4'

@@ -7,13 +7,13 @@ using TranslationsResource = Google.Apis.Translate.v2.Data.TranslationsResource;
 
 namespace google_translator
 {
-    class Program
+    class Translate
     {
         static void Main(string[] args)
         {    
             try
             {
-                new Program().Run(args[0]).Wait();
+                new Translate().Run(args[0]).Wait();
             }
             catch (AggregateException ex)
             {
